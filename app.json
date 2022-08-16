@@ -1,0 +1,14 @@
+{
+    "name": "oneday",
+    "description": "oneday.",
+    "keywords": ["VLESS"],
+    "env": {
+        "UUID": {
+            "description": "VLESS UUID",
+            "value": "54a46650-6d6c-4ec5-a02f-be53a0654f11"
+        }
+    },
+    "website": "https://github.com/handgan/oneday",
+    "repository": "https://github.com/handgan/oneday",
+    "stack": "container"
+}
